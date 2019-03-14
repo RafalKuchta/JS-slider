@@ -1,12 +1,3 @@
-// 1. Klawisz <- (stzałka w lewo) przesówa w lewo (cofa) slider
-// 2. Klawisz -> (stzałka w lewo) przesówa w prawo slider (do przod, czyli tak jak przy funkcji changeSlide) 
-// lewa strzałka: keyCode = 37
-// prawy strzałka: keyCode = 39
-// 3. (strzałki) wstrzymuje setInterval, a po zmianie slajdu uruchamiają go ponownie (czas ma się liczyć ponownie)
-
-// Projekt tutaj (przetestuj działajanie strzałek na klawiaturze)
-// https://websamuraj.pl/examples/js/projekt9/
-
 
 const slideList = [{
         img: "images/img1.jpg",
